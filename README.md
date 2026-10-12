@@ -4,6 +4,10 @@
 
 Developed as part of an internship research project at TTL in 2021, this project implemented real-time object detection using a pretrained YOLO (You Only Look Once) model on an NVIDIA Jetson Nano. Using a live camera feed, the system detects multiple objects in the surrounding environment and displays their class labels, bounding boxes, and confidence scores.
 
+## Project Demo
+
+[Watch the full demonstration](https://drive.google.com/file/d/1cW3iCR8bDX0XdN4cC0nJ7GgJOblRxLpL/view?usp=sharing)
+
 ## Project Overview
 
 The project explored deploying a pretrained deep learning model on an edge computing device for real-time visual recognition. Camera frames were processed to identify objects such as bottles, cups, and bowls, with detection results overlaid on the live video feed.
